@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Omar and I'm a Full Stack .NET Developer, from Egypt🌃</h4>
+<p style="font-size:22px;" align="left">My name is Omar and I'm a Full Stack .NET Developer, from Egypt🌃</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Building skills, one line of code at a time<br>📚 Learning, improving, and adapting every day<br>🎯 Aiming to grow into a developer who creates value and inspires others</h4>
+<p style="font-size:22px;" align="left">✨ Building skills, one line of code at a time<br>📚 Learning, improving, and adapting every day<br>🎯 Aiming to grow into a developer who creates value and inspires others</p>
 
 ###
 
@@ -38,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />

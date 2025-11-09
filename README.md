@@ -1,24 +1,24 @@
-<h1 align="left">👋</h1>
+<h1 align="center">👋</h1>
 
 ###
 
-<p align="left">My name is Omar and I'm a Full Stack .NET Developer, from Egypt🌃</p>
+<p align="center">My name is Omar and I'm a Full Stack .NET Developer, from Egypt🌃</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">✨ Building skills, one line of code at a time<br>📚 Learning, improving, and adapting every day<br>🎯 Aiming to grow into a developer who creates value and inspires others</p>
+<p align="center">✨ Building skills, one line of code at a time<br>📚 Learning, improving, and adapting every day<br>🎯 Aiming to grow into a developer who creates value and inspires others</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />

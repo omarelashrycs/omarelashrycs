@@ -1,24 +1,24 @@
-<h1 align="center">👋</h1>
+<h1 align="left">👋</h1>
 
 ###
 
-<p align="center">My name is Omar and I'm a Full Stack .NET Developer, from Egypt🌃</p>
+<h4 align="left">My name is Omar and I'm a Full Stack .NET Developer, from Egypt🌃</h4>
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="center">✨ Building skills, one line of code at a time<br>📚 Learning, improving, and adapting every day<br>🎯 Aiming to grow into a developer who creates value and inspires others</p>
+<h4 align="left">✨ Building skills, one line of code at a time<br>📚 Learning, improving, and adapting every day<br>🎯 Aiming to grow into a developer who creates value and inspires others</h4>
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -46,13 +46,13 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarelashrycs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/omar-elashry-b80120277/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>

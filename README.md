@@ -1,9 +1,10 @@
 <p align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4500&pause=1000&color=001F54&vCenter=true&width=900&lines=👋+My+name+is+Omar+and+I'm+a+Full+Stack+.NET+Developer+from+Egypt" 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=8000FF&vCenter=true&width=1200&lines=👋+My+name+is+Omar+and+I'm+a+Full+Stack+.NET+Developer+from+Egypt" 
     alt="Typing SVG" 
   />
 </p>
+
 
 
 <h2 align="left">💫About me</h2>

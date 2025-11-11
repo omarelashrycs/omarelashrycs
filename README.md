@@ -1,6 +1,6 @@
-<p align="left">
+  <p align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=2F80ED&vCenter=true&width=1200&lines=👋+My+name+is+Omar+and+I'm+a+Full+Stack+.NET+Developer+from+Egypt" 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=8e7cc3&vCenter=true&width=1200&lines=👋+My+name+is+Omar+and+I'm+a+Full+Stack+.NET+Developer+from+Egypt" 
     alt="Typing SVG" 
   />
 </p>

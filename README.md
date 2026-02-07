@@ -14,7 +14,7 @@
 ✨ Building skills, one line of code at a time<br><br>
 📚 Learning, improving, and adapting every day<br><br>
 🎯 Aiming to grow into a developer who creates value and inspires others<br><br>
-📄 <a href="https://github.com/omarelashrycs/omarelashrycs/blob/main/resume.pdf" target="_blank">View My CV</a>
+📄 <a href="https://github.com/omarelashrycs/omarelashrycs/blob/main/Omar-Elashry-CV.pdf" target="_blank">View My CV</a>
 </h3>
 
 <h2 align="left">I code with</h2>

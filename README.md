@@ -27,12 +27,12 @@ I am a **Full Stack .NET Developer** based in Egypt, focused on building robust 
 <img src="https://cdn.simpleicons.org/shopify/96BF48" height="40" alt="Shopify" />
 
 <br/>
-
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarelashrycs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelashrycs&layout=compact&langs_count=5&theme=aura&hide_border=false&cache_seconds=21600" />
+</p>
+
 
 ---
 

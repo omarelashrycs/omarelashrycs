@@ -1,66 +1,61 @@
-  <p align="left">
+<p align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=a277ff&vCenter=true&width=1200&lines=👋+My+name+is+Omar+and+I'm+a+Full+Stack+.NET+Developer+from+Egypt" 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=a277ff&vCenter=true&width=1200&lines=👋+Hi,+I'm+Omar+Elashry;Full+Stack+.NET+Developer;Building+Scalable+Web+Applications" 
     alt="Typing SVG" 
   />
 </p>
 
+<h2 align="left">💫 About Me</h2>
 
+<p align="left">
+I am a <b>Full Stack .NET Developer</b> based in Egypt, passionate about building robust back-end architectures and seamless front-end experiences. With a background in Computer Science from <b>Misr International University</b> and specialized training from the <b>ITI</b>, I focus on writing clean, maintainable, and efficient code.
+</p>
 
+<ul align="left">
+  <li>🚀 Currently focused on <b>Enterprise Application Development</b> and <b>E-commerce solutions</b>.</li>
+  <li>💼 Open to <b>Full-stack roles</b> where I can contribute to C#/.NET and Angular ecosystems.</li>
+  <li>✍️ Check out my <a href="https://github.com/omarelashrycs/omarelashrycs/blob/main/OmarElashryCV.pdf" target="_blank">Professional CV</a>.</li>
+</ul>
 
-<h2 align="left">💫About me</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
-<h3 align="left">
-✨ Building skills, one line of code at a time<br><br>
-📚 Learning, improving, and adapting every day<br><br>
-🎯 Aiming to grow into a developer who creates value and inspires others<br><br>
-📄 <a href="https://github.com/omarelashrycs/omarelashrycs/blob/main/OmarElashryCV.pdf" target="_blank">View My CV</a>
-</h3>
-
-<h2 align="left">I code with</h2>
-
+<h3 align="left">Backend & Logic</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,js,azure" height="40" alt="Backend skills" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="sql-server" />
 </div>
+
+<h3 align="left">Frontend & UI/UX</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,figma" height="40" alt="Frontend skills" />
+</div>
+
+<h3 align="left">Tools & Platforms</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,notion" height="40" alt="Tools" />
+  <img src="https://cdn.simpleicons.org/shopify/96BF48" height="40" alt="shopify logo" />
+</div>
+
 <br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarelashrycs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+<h2 align="left">📊 GitHub Analytics</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarelashrycs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" alt="languages graph" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarelashrycs&show_icons=true&theme=aura&rank_icon=github&count_private=true" alt="stats card" />
+</p>
 
 <hr>
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">🤝 Connect with me</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/omar-elashry-b80120277/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:omarelashrywork@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="outlook logo" />
   </a>
 </div>

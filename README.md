@@ -1,6 +1,6 @@
 <p align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=a277ff&vCenter=true&width=1200&lines=👋+Hi,+I'm+Omar+Elashry;Full+Stack+.NET+Developer;Interested+in+ERP+Systems" 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=a277ff&vCenter=true&width=1200&lines=👋+Hi,+I'm+Omar+Elashry;Full+Stack+.NET+Developer" 
     alt="Typing SVG" 
   />
 </p>
@@ -10,7 +10,7 @@
 I am a **Full Stack .NET Developer** based in Egypt, focused on building robust back-end architectures and scalable applications. With a background from **Misr International University** and the **ITI**, I enjoy solving complex problems and creating value through code.
 
 * 🚀 Currently interested in **Enterprise Application Development** and **ERP Systems**.
-* 💼 Open to **Full-stack roles** involving C#/.NET, Angular, and E-commerce.
+* 💼 Open to **Full-stack roles** involving C#/.NET, Angular, and MVC.
 * ✍️ Check out my [Professional CV](https://github.com/omarelashrycs/omarelashrycs/blob/main/OmarElashryCV.pdf)
 
 ## 🛠️ Tech Stack
